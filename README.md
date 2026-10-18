@@ -18,6 +18,12 @@ An interactive tool that identifies where a company's positioning, messaging, an
 - Data products and new commercial applications for technical IP
 - AI-assisted prototyping, experimentation, and product development
 
+### Open-source projects I'm exploring
+
+I'm interested in how AI agents and open-source tools can help small GTM teams punch above their weight.
+
+- **[Newsjack](https://github.com/elvisun/newsjack)** by elvisun: Open-source AI skills for PR, media outreach, and communications. Particularly interesting for founding GTM teams without dedicated PR resources.
+- **[AI GTM Skills](https://github.com/GTMify/aigtm)** by GTMify: Agent skills for prospect research, meeting preparation, pipeline management, and GTM execution.
 ### Elsewhere
 
 [Website](https://www.seemashethvoss.com/) | [Story Line](https://buyer-journey-drift.vercel.app/)
