@@ -10,13 +10,13 @@ I'm also experimenting with AI and lightweight applications to solve problems I 
 
 **[Story Line](https://buyer-journey-drift.vercel.app/)**
 
-An early-stage tool exploring where a company's story, messaging, and buyer journey drift apart. Built through AI-assisted development and still evolving.
+An interactive tool that identifies where a company's positioning, messaging, and buyer journey fall out of alignment across its website and owned digital channels. The value to the CMO/CRO/CEO trio: Storyline helps me pinpoint how buyer friction leads to stalled pipelines, longer sales cycles, or lost deals.
 
 ### Things I'm exploring
 
 - AI agents and skills for GTM research and execution
 - Data products and new commercial applications for technical IP
-- Rapid prototyping and building without a traditional software development background
+- AI-assisted prototyping, experimentation, and product development
 
 ### Elsewhere
 
