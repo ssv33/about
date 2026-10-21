@@ -2,7 +2,7 @@
 
 ### GTM strategist. Curious builder.
 https://github.com/ssv33/about/blob/main/README.md
-I work with early-stage technical founders on positioning, product launches, and finding the GTM channel that fits.
+I work with early-stage and growth stage technical founders on positioning, product launches, and finding the GTM channel that fits.
 
 I'm also experimenting with AI and lightweight applications to solve problems I encounter in go-to-market work.
 
