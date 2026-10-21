@@ -1,6 +1,6 @@
 # Seema Sheth-Voss
 
-### GTM strategist. Curious builder.
+### GTM operator. Builder.
 https://github.com/ssv33/about/blob/main/README.md
 I work with early-stage and growth stage technical founders on positioning, product launches, and finding the GTM channel that fits.
 
@@ -18,7 +18,7 @@ An interactive assessment that identifies where a company's positioning, messagi
 - Data products and new commercial applications for technical IP
 - AI-assisted prototyping, experimentation, and product development
 
-### Open-source projects I'm exploring
+### Open-source projects 
 
 I'm interested in how AI agents and open-source tools can help small GTM teams punch above their weight.
 
